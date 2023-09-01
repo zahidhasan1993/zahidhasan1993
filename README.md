@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidhasan1993&label=Profile%20views&color=0e75b6&style=flat" alt="zahidhasan1993" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahidhasan1993" alt="zahidhasan1993" /></a> </p>
+
 
 - 🔭 I’m currently working on [Dineease](https://dineease-15e58.web.app/)
 
@@ -19,7 +19,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/u/2/d/1EOOOAgQ4vYU0LZnw1FPWpKazYAwIq9PS/view?usp=sharing](https://drive.google.com/file/u/2/d/1EOOOAgQ4vYU0LZnw1FPWpKazYAwIq9PS/view?usp=sharing)
 
 - ⚡ Fun fact **I am a funny guy.**
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahidhasan1993" alt="zahidhasan1993" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zahid-hasan-2434a0279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zahid-hasan-2434a0279/" height="30" width="40" /></a>
