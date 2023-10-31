@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [toyverse]([https://dineease-15e58.web.app/](https://github.com/zahidhasan1993/toyverse-clint))
+- 🔭 I’m currently working on [luxeseven](https://github.com/zahidhasan1993/luxeseven)
 
 - 🌱 I’m currently learning **Redux,Mongoose**
 
