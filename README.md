@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zahidhasan1993.netlify.app/](https://zahidhasan1993.netlify.app/)
 
-- 💬 Ask me about **MERN Stack, JavaScript**
+- 💬 Ask me about **MERN Stack, JavaScript,TypeScript,Angular**
 
 - 📫 How to reach me **zahidhasan19932023@gmail.com**
 
