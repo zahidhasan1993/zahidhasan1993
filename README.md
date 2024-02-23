@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahid Hasan</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 <img src="https://plus.unsplash.com/premium_photo-1678565869434-c81195861939?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width=100% />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidhasan1993&label=Profile%20views&color=0e75b6&style=flat" alt="profile view"  width=35%/> </p>
